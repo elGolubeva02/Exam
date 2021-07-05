@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Файлы\UML.pdf" />
     <None Include="Файлы\Решение MM.pdf" />
   </ItemGroup>
   <ItemGroup />

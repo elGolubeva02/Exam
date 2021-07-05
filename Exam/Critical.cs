@@ -120,7 +120,7 @@ namespace Exam
             return maxind;
         }
         /// <summary>
-        /// Построение путей
+        /// Построение перемещений и подсчет их значений
         /// </summary>
         /// <param name="ls"></param>
         /// <param name="minel"></param>
