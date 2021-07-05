@@ -49,9 +49,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Файлы\Решение MM.pdf" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Файлы\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
