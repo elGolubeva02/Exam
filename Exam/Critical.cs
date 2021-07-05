@@ -52,6 +52,7 @@ namespace Exam
         /// <summary>
         /// Запись решения в csv файл
         /// </summary>
+       
         public void Vivod()
         {
             foreach (Rbt rb in itog[maxind])
